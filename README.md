@@ -45,6 +45,7 @@ Unfortunately, I did not get around to making a web UI for this server. I might 
 To change your options, find your user under the "ddr_16_profiles" table and edit whichever columns you'd like. Below are the valid options for each column you probably care about:
 
 
+
 **dancer_character**:
 ```
     RANDOM,
@@ -68,6 +69,8 @@ To change your options, find your user under the "ddr_16_profiles" table and edi
     RYUSEI_RINON
 ```
 
+
+
 **option_arrow_skin**:
 ```
     NORMAL,
@@ -80,6 +83,8 @@ To change your options, find your user under the "ddr_16_profiles" table and edi
     BUTTERFLY
 ```
 
+
+
 **option_screen_filter**:
 ```
     OFF,
@@ -87,6 +92,8 @@ To change your options, find your user under the "ddr_16_profiles" table and edi
     MEDIUM,
     DARK
 ```
+
+
 
 **option_guidelines**:
 ```    OFF,
@@ -100,13 +107,18 @@ To change your options, find your user under the "ddr_16_profiles" table and edi
     BACKGROUND
 ```
 
+
+
 **show_fast_slow_results**:
 ```
     0,
     1
 ```
 
+
 If you'd like to set your weight, enter your weight in **kilograms** in the weight column.
+
+
 
 ### What's next?
 
