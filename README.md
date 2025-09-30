@@ -1,6 +1,8 @@
 
-# butterfly
+# Butterfly
 An e-AMUSEMENT server emulator, targeting Dance Dance Revolution A.
+
+
 
 ## What is this?
 
