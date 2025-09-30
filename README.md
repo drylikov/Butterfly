@@ -20,8 +20,11 @@ This is **butterfly**, an e-AMUSEMENT server targeting Dance Dance Revolution A.
 
 ### How do I use it?
 
+
 Requirements:
+
 * Java 8 or above needs to be installed. Most users should already have this, but if not, download the latest JRE for your platform
+
 
 #### Usage:
 
