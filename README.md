@@ -39,9 +39,11 @@ At this point, the server should be running. Connect your game and play!
 
 ### How do I change webUI-only options (dancer, fast/slow judgement, etc.)?
 
+
 Unfortunately, I did not get around to making a web UI for this server. I might in the future. In the meantime, you'll need to manually edit the database to change these options... any SQLite database browser will work.
 
 To change your options, find your user under the "ddr_16_profiles" table and edit whichever columns you'd like. Below are the valid options for each column you probably care about:
+
 
 **dancer_character**:
 ```
