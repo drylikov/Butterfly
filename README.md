@@ -10,10 +10,13 @@ An e-AMUSEMENT server emulator, targeting Dance Dance Revolution A.
 This is **butterfly**, an e-AMUSEMENT server targeting Dance Dance Revolution A. This is a mostly-fully-featured server, intended for local usage.
 
 ### Features:
+
 * Full support for profile creation, score saving, options saving. etc.
   * Carding in works as expected, and any number of profiles is supported
 * Forced full unlock (currently event progress is not tracked / everything is fully unlocked already)
 * Can run on Windows/Mac/Linux
+
+
 
 ### How do I use it?
 
